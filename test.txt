@@ -1,0 +1,3 @@
+Place a ground.
+Place a house on the ground.
+Place a porch in front of the house.

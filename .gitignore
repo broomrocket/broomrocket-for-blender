@@ -1,0 +1,9 @@
+.idea
+*.iml
+modules
+__pycache__
+*test.py
+environment3d.tex
+*.spp
+*.blend1
+library/*
